@@ -1,5 +1,5 @@
 {
-  "name": "Netlify-Express",
+  "name": "nbook",
   "version": "0.0.1",
   "description": "Example of how to deploy an Express.js Netlify app.",
   "main": "functions/server.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/king-melchizedek/Netlify-Express.git"
+    "url": "git+https://github.com/onbookdbs/nbook.git"
   },
   "keywords": [
     "netlify",
     "express.js"
   ],
-  "author": "Ethan Miller",
-  "license": "MIT",
+  "author": "Moh Nurrofiq",
+  "license": "S.Kom",
   "bugs": {
-    "url": "https://github.com/king-melchizedek/Netlify-Express/issues"
+    "url": "https://github.com/onbookdbs/nbook/issues"
   },
-  "homepage": "https://github.com/king-melchizedek/Netlify-Express#readme",
+  "homepage": "https://github.com/onbookdbs/nbook#readme",
   "dependencies": {
     "netlify-cli": "^6.12.3",
     "pug": "^2.0.4",
